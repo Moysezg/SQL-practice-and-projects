@@ -1,5 +1,5 @@
 -- ============================================================
--- HackerRank: Basic Select (18 Challenges)
+-- HackerRank: Basic Select (34 Challenges)
 -- ============================================================
 
 -- Challenge 1: Revising the Select Query I
