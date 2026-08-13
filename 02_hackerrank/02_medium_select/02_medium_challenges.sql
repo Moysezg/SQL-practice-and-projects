@@ -1,6 +1,21 @@
--- ============================================================
--- HackerRank: Advanced Select / Medium Challenges
--- ============================================================
+-- ==============================================================================
+-- PROJECT: HackerRank Intermediate & Advanced SQL Challenges
+-- AUTHOR: Moisés Zamora García
+-- PLATFORM: HackerRank (Advanced Select & Advanced Joins)
+-- TOPICS COVERED: Window Functions, Data Pivoting, Multi-Table Joins, Complex HAVING
+-- ==============================================================================
+--
+-- Overview:
+-- Production-ready solutions for intermediate and advanced relational database 
+-- problems. Focuses on query optimization, dynamic data aggregation, conditional 
+-- logic, and analytical window operations.
+--
+-- Advanced SQL Techniques Applied:
+-- 1. Window Functions & Partitioning: ROW_NUMBER() OVER(PARTITION BY ... ORDER BY ...)
+-- 2. Data Pivoting & Transformation: Conditional aggregation via MAX(IF(...)) / CASE
+-- 3. Complex Multi-Table Joins: INNER JOIN across 4+ relational entities
+-- 4. Dynamic Group Filtering: Subqueries in HAVING clauses for unique/max constraints
+-- ==============================================================================
 
 -- Challenge 1: New Companies
 -- Platform: HackerRank (Advanced Select)
