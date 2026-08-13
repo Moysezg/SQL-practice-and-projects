@@ -1,4 +1,20 @@
-https://sqlbolt.com/lesson/introduction
+-- ==============================================================================
+-- PROJECT: Relational Database Querying & SQL Fundamentals
+-- SOURCE: SQLBolt Interactive Coursework
+-- AUTHOR: Moisés Zamora García
+-- TOPICS COVERED: Data Selection, Filtering, Joins, Aggregations, Schema DDL/DML
+-- ==============================================================================
+--
+-- Overview:
+-- This script contains solutions to the complete SQLBolt tutorial series. 
+-- It demonstrates proficiency in querying relational tables, filtering 
+-- complex conditions, joining multi-table datasets, and performing aggregations.
+--
+-- Key Operations Implemented:
+-- 1. Data Filtering: WHERE, LIKE, IN, BETWEEN, ORDER BY, LIMIT
+-- 2. Multi-Table Operations: INNER JOIN, LEFT/RIGHT/FULL OUTER JOIN
+-- 3. Data Aggregation: GROUP BY, HAVING, COUNT, SUM, AVG, MIN, MAX
+-- 4. Schema Manipulation: INSERT, UPDATE, DELETE, CREATE/ALTER/DROP TABLE
 -- ------------------------------------------------------------
 -- SQL Lesson 10: Queries with aggregates (Pt. 1)
 -- ------------------------------------------------------------
