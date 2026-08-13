@@ -1,6 +1,20 @@
--- ============================================================
--- HackerRank: Basic Select (34 Challenges)
--- ============================================================
+-- PROJECT: HackerRank SQL Challenge Set (Basic to Intermediate)
+-- AUTHOR: Moisés Zamora García
+-- PLATFORM: HackerRank
+-- TOTAL CHALLENGES SOLVED: 34
+-- TOPICS COVERED: Data Retrieval, Logical Filtering, Aggregations, & Subqueries
+-- ==============================================================================
+--
+-- Overview:
+-- Comprehensive solutions to 34 SQL challenges covering core relational database 
+-- operations, conditional logic, and statistical data aggregation.
+--
+-- Key Operations Implemented:
+-- 1. Relational Selection & Filtering: SELECT, WHERE, LIKE, IN, BETWEEN, REGEXP
+-- 2. Aggregation & Metrics: COUNT, SUM, AVG, MIN/MAX, GROUP BY, HAVING
+-- 3. Advanced Logic: CASE WHEN statements, Subqueries, & String Manipulation
+-- 4. Multi-Table Joins: INNER JOIN, LEFT JOIN, FULL OUTER JOIN
+-- ==============================================================================
 
 -- Challenge 1: Revising the Select Query I
 SELECT * 
